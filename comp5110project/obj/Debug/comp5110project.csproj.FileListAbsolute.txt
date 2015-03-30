@@ -1,0 +1,10 @@
+C:\Users\gmwil_000\Documents\Visual Studio 2013\Projects\comp5110project\comp5110project\bin\Debug\comp5110project.exe.config
+C:\Users\gmwil_000\Documents\Visual Studio 2013\Projects\comp5110project\comp5110project\bin\Debug\comp5110project.exe
+C:\Users\gmwil_000\Documents\Visual Studio 2013\Projects\comp5110project\comp5110project\bin\Debug\comp5110project.pdb
+C:\Users\gmwil_000\Documents\Visual Studio 2013\Projects\comp5110project\comp5110project\obj\Debug\comp5110project.MainForm.resources
+C:\Users\gmwil_000\Documents\Visual Studio 2013\Projects\comp5110project\comp5110project\obj\Debug\comp5110project.Instruction.resources
+C:\Users\gmwil_000\Documents\Visual Studio 2013\Projects\comp5110project\comp5110project\obj\Debug\comp5110project.Properties.Resources.resources
+C:\Users\gmwil_000\Documents\Visual Studio 2013\Projects\comp5110project\comp5110project\obj\Debug\comp5110project.csproj.GenerateResource.Cache
+C:\Users\gmwil_000\Documents\Visual Studio 2013\Projects\comp5110project\comp5110project\obj\Debug\comp5110project.exe
+C:\Users\gmwil_000\Documents\Visual Studio 2013\Projects\comp5110project\comp5110project\obj\Debug\comp5110project.pdb
+C:\Users\gmwil_000\Documents\Visual Studio 2013\Projects\comp5110project\comp5110project\obj\Debug\comp5110project.csprojResolveAssemblyReference.cache
